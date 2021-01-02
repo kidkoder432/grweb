@@ -1,0 +1,94 @@
+Abhogi: SRgMDS SDMgRS
+Adana: SRMPdnS SdnPgMRS
+Ahir Bhairav: SrGMPDnS SnDPMGMGrS
+Amritvarshini: SGmPNS SNPmGS
+Bageshree: SgMDnS SnDMPDMgRS
+Bageshrikauns: SgMDnS SnDMgS
+Bahaar: SMPnDNS SnPgMRS
+Bairagi: SrMPnS SnPMMrS
+Barawa: SRMPDnDS SnDPgRMGPMgRS
+Basant: SMGmdNS SNdPmGmGrS
+Bhairav: SrGMPdNS SNdPMGMGrS
+Bhairavi: SgMdnSRgrS SndPMPgMrS
+Bhatiyar: SrGMmDNS rNDPMGPGrS
+Bhimpalasi: nSgMPnS SnDPMPgRS
+Bhinna Shadja: SGMDNS SNDMGS
+Bhoopali: SRGPDS SDPGRS 
+Bhoopali Todi: SrgPdS SdPgrS
+Bibhas: SrGPdS SdPGrS
+Bihag: SGMPNS SNDPmPGMGRS
+Bihagda: SGMPNS SNDPDnDPGMGRS
+Bilaskhani Todi: SrgPdS rndMgrS
+Bilawal: SGRGPDNS SNDnDPMGRS
+Vrindavani Sarang: SRMPNS SnPMRS
+Chandrakauns: SgMdNS SNdMgS
+Charukeshi: SRGMPdnS SndPMGRS
+Chhayanat: SRGMPmPDNS SNDnDPPmDPmPMGRS
+Darbari Kanada: SRMgMPdnS SndnPgMRS
+Des: SRMPNS SnDMPDMGRGS
+Dhani: SgMPnS SnPMgS
+Durga: SRMPDS SDPMRS
+Gorakh Kalyan: SRMDnS SnDMRMPMRS
+Gaud Malhar: SMRPMPnDNS SnPGPDPMGRS
+Gujari Todi: SrgmdNS SNdmgrS
+Gunakali: SrMPdS SdPMrS
+Hameer: SGMNDNS SNDPmPGMRS
+Hansadhwani: SRGPNS SNPGRS
+Hindol: SGmDNS SNDmGS
+Janasammohini: SRGPDnS SnDPGRS
+Jaijaivanti: SRGMPNS SnDPMGRgRS
+Jait: SrGPDS SDPGrS
+Jog: SGMPnS SnPMGgS
+Jogkauns: SGMdNS SNdndPMGgS
+Jogiya: SrMPdS SNdPMGrS
+Jaunpuri: SRMPdnS SndPdMPgRS
+Kafi: SRMPDnDS SnDPMgRS
+Kalavati: SGPDnS SnDPGS
+Kalingada: SrGMPdNS SNdPMGrS
+Kamod: SRmPDPNS SDPGMRS
+Kedar: SMGPmPNS SNDPmPDPMRS
+Kirvani: SRgMPdNS SNdPMgRS
+Khamaj: SGMPDnS SnDPMGRS
+Kolahas: SRgPDnS SnDPgRS
+Lalat: NrGMmMdNS SNdmdmMGrS
+Madmaad Sarang: SRMPnS SnPMRS
+Madhukauns: SgmPnS SnPmgS
+Madhuvanti: SgmPNS SNDPmgRS
+Malkauns: SgMdnS SndMgS
+Malhar: SMRPnDNS SnPgMRS
+Mand: SGMPDNS SNDPMGRS
+Marwa: rGmDNrS rNDmGrS
+Marubihag: SMGmPNS SNDPmGRS
+Multani: SgmPNS SNdPmgrS
+Nand: SGMPDNPS SNDPMGMDPMRS
+Nat Bhairav: SGMPdNS SNdPMGMGRS
+Nayaki Kanada: SRMPnS SnPgMRS
+Paraj: SGmdNdS SNdNdPmGMGrS
+Parameshwari: SrgMDnS SnDMgrS
+Patadeep: SgMPNS SNDPMgRS
+Pooriya: NrGmDNrS rSNDmGmrGrS
+Pooriya Kalyan: NrGmDNS SNDPmGrS
+Pooriya Dhanashree: NrGmdNS rNdPmGrS
+Poorvi: NrGmdNS SNdPmGMGrS
+Rageshri: SGMDnS SnDMGRS
+Rajakalyan: NRGmDNS SNDmGRS
+Ramadasimalhar: SRGMPnDNS SnPgMRS
+Ramakali: SGMdNS SNdPmPdndPGMGrS
+Salag Varali: SrgPDnS SnDPgrS
+Saraswati: SRmPDS SnDPmRS
+Shahanakanada: SRgMPgMDnS SnPgMRS
+Shankara: SGPNDS SNPGPRGRS
+Shivaranjani: SRgPDS SDPgRS
+Shree: SrmPNS rNdPdmGrS
+Shuddha Kalyan: SRGPDS SNDPmGRS
+Shuddha Sarang: SRmPNS SNDPMRS
+Shyam Kalyan: SRmPNS SNDPmPGMRS
+Sohani: SGmDNSrS SNDmGrS
+Soora Malhar: SRMPDnDMPNS SnDPMRS
+Sorath: SRMPNS SnDPDMRS
+Tilakakamod: SRMPNS SPDMGSRGS
+Tilanga: SGMPNS SnPGMGRS
+Todi: SrgmdNS SNdPmgrS
+Yaman: NRGmDNS SNDPmGRS
+Yaman Kalyan: NRGmDNS SNDPmGMGRS
+Jinjhoti: SRMPDnDS SnDMGSMRS
