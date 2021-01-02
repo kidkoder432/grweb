@@ -1,0 +1,94 @@
+<html class="center">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            What's The Raga?
+        </title>
+        
+    </head>
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+    a {
+	    color: #00aaff;
+	    text-decoration: none;
+    }
+    a:hover {
+	color: #00aaff;
+	text-decoration: underline;
+    }
+    a:active {
+	color: #00aaff;
+	text-decoration: underline;
+    }
+
+	
+
+    .body {
+	align-content: center;
+	text-align: center;
+    }
+    nav ul {
+	list-style-type: none;
+	background-color: transparent;
+	width: 100%;
+	height: 16px;
+	border: 1px solid #000000;
+	border-radius: 8px;
+	padding: 4px;
+
+    }
+    nav ul li {
+	display: inline;
+	padding: 5px;
+    }
+    nav ul li a {
+	font-weight: bold;
+	color: #000000;
+	padding: 4px;
+    }
+    body {
+	font-family: "Comfortaa", cursive;
+	/* background: url(notes.jpg), linear-gradient(#ff9933, #ff66cc); */
+	background: linear-gradient(#ff9933, #ff66cc);
+	margin-top: 10vh;
+
+    }
+    h1, p {
+    color: #ffffff;
+    }
+    input {
+	border-radius: 10px
+    }
+
+    </style>
+    <body>
+		<nav><ul>
+			<li class="selected"><a href="/">Home</a></li>
+			<li><a href="/findex">Feedback</a></li>
+			<li><a href="/dcindex">Data Collection</a></li
+		</ul></nav>
+		<div class="body pretext">
+			<h1>Welcome!</h1>
+			<p>Are you new to Hindustani Classical music?<br>Are you always forming tunes in your head, but can never figure out what raga they are in?<br>Well, you've come to the right place!<br><br><br></p></div>
+		<div class="body anim">
+			
+			<h1>
+				What's the Raga?
+			</h1>
+		<div class="body">
+			<p class="para"> 
+				How to use: <br>
+	            1. Type a phrase. For example: nSgMPnDPgMgRS. The phrase must be at least 7 notes long (not including pauses) for good accuracy.<br>
+				2. Click "<strong>What's the Raga</strong>" to see which raga your phrase is in!        
+			</p>
+			
+		</div>
+			<div class="body"><form action = '/' method="POST">
+				<input type="text" id="phrase" name="phrase" placeholder="Phrase" size=46/>
+				<input type="submit" id="guess" value="What's the Raga?" class="gu"></form> 
+				<p id="out">{{ guesses }}</p>
+				<p>Feedback? Questions? Comments? Send them <a href="/fdindex" >here</a>.</p> 
+			</div>
+		</div>
+    </body>
+</html>
